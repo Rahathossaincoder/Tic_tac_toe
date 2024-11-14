@@ -50,6 +50,8 @@ body{
     width: 18vmin;
     background-color: #BC9EC1;
     border-radius: 20px;
+    color: red;
+    font-size: 16vmin;
 }
 
 .box:hover{
